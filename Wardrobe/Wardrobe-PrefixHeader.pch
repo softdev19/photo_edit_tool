@@ -1,0 +1,17 @@
+//
+//  Wardrobe-PrefixHeader.pch
+//  Wardrobe
+//
+//  Created by GoldenSpear1 on 22/04/16.
+//  Copyright © 2016 GoldenSpear. All rights reserved.
+//
+
+#ifndef Wardrobe_PrefixHeader_pch
+#define Wardrobe_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+//#import "AppDefine.h"
+#import "ComposeDefine.h"
+
+#endif /* Wardrobe_PrefixHeader_pch */
